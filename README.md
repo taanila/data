@@ -1,3 +1,3 @@
 # data
-Dataan tutustuminen, muuntaminen ja suodattaminen
+Dataan tutustuminen, datan muuntaminen ja datan suodattaminen
 https://tilastoapu.wordpress.com/python
